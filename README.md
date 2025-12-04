@@ -14,8 +14,6 @@ and improving my analytical and visualization skills.
 
 ---
 
-## 🛠️ Technical Skills
-
 ## 🔧 Skills & Tools
 
 <p align="center">
