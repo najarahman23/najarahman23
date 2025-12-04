@@ -39,14 +39,4 @@ and improving my analytical and visualization skills.
 🔗 **LinkedIn:** https://linkedin.com/in/naja-fathima-7970312b6  
 📍 **Location:** Kasaragod, Kerala, India  
 
----
 
-## 🚀 What I'm Currently Learning
-- Advanced Data Analysis  
-- Power BI Dashboard Automation  
-- SQL Query Optimization  
-- Statistical methods for business insights  
-
----
-
-⭐ *“Data tells a story — I turn it into insight.”*  
