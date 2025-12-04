@@ -16,10 +16,6 @@ and improving my analytical and visualization skills.
 
 ## 🛠️ Technical Skills
 
-### **Programming & Tools**
-
----
-
 ## 🔧 Skills & Tools
 
 <p align="center">
@@ -53,15 +49,6 @@ and improving my analytical and visualization skills.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najarahman23&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najarahman23&layout=compact&theme=default" height="160"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -75,26 +62,8 @@ and improving my analytical and visualization skills.
 
 ---
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** (MySQL)
-- **R Programming**
-- **Excel**, **Power Query**
-- **Power BI** (DAX, Data Modeling)
 
-### **Data Skills**
-- Data Cleaning & Preparation  
-- Exploratory Data Analysis (EDA)  
-- Statistical & Econometric Analysis  
-- Dashboard Development  
-- Reporting & Business Intelligence  
-- Critical Thinking & Problem Solving  
 
----
 
-## 🔗 Connect With Me
-
-📧 **Email:** najarahman23@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/naja-fathima-7970312b6  
-📍 **Location:** Kasaragod, Kerala, India  
 
 
